@@ -1,0 +1,14 @@
+[
+  {
+    "prompt": "What is a variable in Java?",
+    "completion": "A variable in Java is a container which holds the value while the Java program is executed. A variable is assigned with a data type."
+  },
+  {
+    "prompt": "What are the 8 primitive data types in Java?",
+    "completion": "The 8 primitive data types in Java are byte, short, int, long, float, double, boolean, and char."
+  },
+  {
+    "prompt": "What is a Java constructor?",
+    "completion": "A constructor in Java is a special method used to initialize objects. It is called when an instance of the class is created and it must have the same name as its class."
+  }
+]
